@@ -6,5 +6,5 @@ Python-based solutions for verities of given problems
 #### QS. 3: Encryption-decryption, error correction
 
 
-### Data: As the .csv files are quite bit large, just including the whole zip file with the data needed
+### Data: As the .csv files are quite large, we are not including them here. But feel free to knock & we will send it to you. 
 
