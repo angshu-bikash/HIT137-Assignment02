@@ -6,5 +6,5 @@ Python-based solutions for verities of given problems
 #### QS. 3: Encryption-decryption, error correction
 
 
-### Data: As the .csv files are a quite bit large, just including the zip file to download the data (Inside "data & image folder")
+### Data: As the .csv files are quite bit large, just including the whole zip file with the data needed
 
